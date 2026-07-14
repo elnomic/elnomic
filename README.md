@@ -1,71 +1,108 @@
 <div align="center">
 
-  <!-- Animated Header (Mobile Optimized) -->
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=00C3FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+elnomic+%F0%9F%91%8B;Startup+Builder+%26+Product+Engineer;Turning+Ideas+into+Scalable+Reality" alt="elnomic" />
-  </h1>
+<!-- ============================================
+     NEON PIXEL LAMP ANIMATION - ELNOMIC
+     Pure CSS, no external files needed.
+     Glow effect like neon signage with subtle pulse.
+     ============================================ -->
 
-  <h3>🚀 Building the future, one startup at a time</h3>
+<h1 align="center" style="margin-bottom: 8px;">
+  <span style="
+    font-family: 'Courier New', 'Consolas', 'Monaco', monospace;
+    font-size: 42px;
+    font-weight: 700;
+    letter-spacing: 6px;
+    color: #e0f7ff;
+    text-shadow: 
+      0 0 6px #00f0ff,
+      0 0 12px #00f0ff,
+      0 0 24px #00f0ff;
+    animation: neon-lamp 1.8s ease-in-out infinite alternate;
+    display: inline-block;
+    padding: 4px 12px;
+  ">
+    ELNOMIC
+  </span>
+</h1>
 
-  <p>
-    <a href="https://github.com/elnomic"><img src="https://img.shields.io/badge/GitHub-elnomic-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
-    <a href="https://x.com/ojixbt"><img src="https://img.shields.io/badge/Twitter-ojixbt-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="Twitter"/></a>
-    <a href="https://wa.me/6282124643404"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp"/></a>
-  </p>
+<p align="center" style="margin-top: 0; margin-bottom: 24px; font-size: 15px; color: #8b949e; letter-spacing: 1px;">
+  <strong>BUILDER &amp; STARTUP ENTHUSIAST</strong><br>
+  <span style="font-size: 13px;">Membangun proyek, mengembangkan startup</span>
+</p>
 
-  <!-- Wave divider (responsive) -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00C3FF&height=80&section=header&width=100%" width="100%" style="margin: 20px 0;" />
-
-</div>
-
----
-
-### 👋 About Me
-
-Halo! Saya **elnomic**, seorang **Startup Builder** & Product Engineer yang fokus membangun produk digital dari nol hingga skalabel.
-
-Saya senang berada di persimpangan **ide**, **teknologi**, dan **bisnis**. Membantu founder dan tim startup mengembangkan MVP, internal tools, automation, serta platform yang benar-benar berdampak.
-
-**Philosophy**: *Build fast. Learn faster. Ship relentlessly.*
-
----
-
-### 🛠️ What I Build
-
-- **Startup MVPs** — Dari konsep hingga produk siap launch  
-- **Internal Tools & Automation** — Meningkatkan efisiensi tim  
-- **SaaS Products** — Platform yang scalable dan user-friendly  
-- **AI-powered Solutions** — Membantu bisnis memanfaatkan kecerdasan buatan  
-- **Developer Experience Tools** — Membuat hidup developer lebih mudah
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+<style>
+@keyframes neon-lamp {
+  from {
+    text-shadow: 
+      0 0 6px #00f0ff,
+      0 0 12px #00f0ff,
+      0 0 24px #00f0ff;
+    transform: scale(1);
+  }
+  to {
+    text-shadow: 
+      0 0 10px #00f0ff,
+      0 0 20px #00f0ff,
+      0 0 36px #00f0ff,
+      0 0 48px #00f0ff;
+    transform: scale(1.01);
+  }
+}
+</style>
 
 </div>
 
 ---
 
-### 📬 Let's Connect!
+### 👋 Halo, saya Elnomic
 
-- **Email** → [elnomic@yahoo.com](mailto:elnomic@yahoo.com)
-- **WhatsApp** → [+62 821-2464-3404](https://wa.me/6282124643404)
-- **Twitter / X** → [@ojixbt](https://x.com/ojixbt)
+Seorang **builder** yang senang membangun proyek dari nol dan berkontribusi pada ekosistem startup. Saya percaya bahwa produk terbaik lahir dari proses iterasi yang disiplin, pemahaman masalah yang dalam, dan eksekusi yang rapi.
+
+Saya menikmati seluruh siklus pengembangan — mulai dari ide, validasi, hingga peluncuran — terutama proyek yang memiliki potensi dampak nyata bagi pengguna dan bisnis.
+
+### 🚀 Apa yang Saya Kerjakan
+
+- Membangun platform dan tools digital yang fungsional
+- Mengembangkan proyek di persimpangan teknologi dan kewirausahaan
+- Fokus pada product development yang scalable dan user-centric
+- Terbuka untuk kolaborasi dan eksplorasi ide-ide baru di startup ecosystem
+
+### 📫 Mari Terhubung
+
+<div align="center" style="margin: 24px 0;">
+
+<a href="mailto:elnomic@yahoo.com">
+  <img src="https://img.shields.io/badge/Email-elnomic%40yahoo.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://wa.me/6282124643404">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+&nbsp;
+<a href="https://x.com/ojixbt">
+  <img src="https://img.shields.io/badge/X-@ojixbt-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+</a>
+&nbsp;
+<a href="https://github.com/elnomic">
+  <img src="https://img.shields.io/badge/GitHub-elnomic-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+### 📊 Aktivitas GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=elnomic&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="420"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnomic&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="420"/>
+
+</div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00C3FF&height=80&section=footer&width=100%" width="100%" />
-  <p><strong>Currently building the next big thing.</strong> ✨</p>
+<div align="center" style="margin-top: 40px; font-size: 12px; color: #6e7681;">
+  Built with curiosity • Always shipping
 </div>
