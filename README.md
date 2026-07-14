@@ -1,98 +1,85 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Elnomic+%F0%9F%9A%80;Startup+Builder+%26+Tech+Enthusiast;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<h3 align="center">🚀 From Idea to Impact — I Build Things That Matter</h3>
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+elnomic+%F0%9F%91%8B;Startup+Builder+%26+Product+Engineer;Turning+Ideas+into+Scalable+Reality" alt="Typing Animation" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Startups-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%26%20MVP-orange?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Mission-Scale%20Ideas%20%E2%86%92%20Reality-blueviolet?style=for-the-badge&logo=target" />
-</p>
+  <h3>🚀 Building the future, one startup at a time</h3>
 
----
+  <p>
+    <a href="https://github.com/elnomic">
+      <img src="https://img.shields.io/badge/GitHub-elnomic-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+    </a>
+    <a href="https://x.com/ojixbt">
+      <img src="https://img.shields.io/badge/Twitter-ojixbt-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="Twitter" />
+    </a>
+    <a href="https://wa.me/6282124643404">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" />
+    </a>
+  </p>
 
-### 👨‍💻 About Me
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00C3FF&height=120&section=header&text=&fontSize=0" width="100%" />
 
-I'm **Elnomic** — a passionate **builder** and **startup enthusiast** who loves turning raw ideas into scalable digital products.  
-I thrive in the intersection of **technology**, **product design**, and **business strategy**.
-
-- 🔭 Currently working on: **Several early-stage startup MVPs**
-- 🌱 Learning: **System Design**, **Cloud Architecture**, **AI Integration**
-- 👯 Looking to collaborate: **Developers & Founders with bold ideas**
-- 💬 Ask me about: **Startup strategy**, **Tech stack selection**, **Product-market fit**
-- ⚡ Fun fact: I code better with coffee ☕ and loud music 🎧
+</div>
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 👋 About Me
 
-```text
-⚡ Languages   : JavaScript, TypeScript, Python, Go
-🌐 Frontend   : React, Next.js, TailwindCSS
-🛠 Backend    : Node.js, Express, Django, FastAPI
-🗄 Database   : PostgreSQL, MongoDB, Redis
-☁️ Cloud      : AWS, GCP, Vercel, Docker
-📱 Mobile     : Flutter, React Native
-🔧 Tools      : Git, Figma, Postman, Linux
-```
+Saya **elnomic**, seorang **Startup Builder** dan Product Engineer yang passionate membangun produk digital dari nol hingga skalabel. 
+
+Saya suka berada di persimpangan antara **ide**, **teknologi**, dan **bisnis**. Selama ini saya fokus membantu founder dan tim startup mengembangkan MVP, tools internal, automation, dan platform yang benar-benar berdampak.
+
+**My philosophy**: *Build fast, learn faster, ship relentlessly.*
 
 ---
 
-### 📈 My Builder Mindset
+### 🛠️ What I Build
 
-```ascii
-+-------------------------------------------------+
-|   🔨 BUILD  →  📈 SCALE  →  🚀 LAUNCH          |
-|   Idea        MVP          Growth & Iteration    |
-+-------------------------------------------------+
-```
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:elnomic@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-elnomic@yahoo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/6282124643404">
-    <img src="https://img.shields.io/badge/WhatsApp-+6282124643404-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/ojixbt">
-    <img src="https://img.shields.io/badge/Twitter-@ojixbt-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+- **Startup MVPs** – Dari ide hingga produk siap launch
+- **Internal Tools & Automation** – Meningkatkan efisiensi tim
+- **SaaS Products** – Platform yang scalable dan user-friendly
+- **AI-powered Solutions** – Membantu bisnis menggunakan kecerdasan buatan
+- **Developer Experience Tools** – Membuat hidup developer lebih mudah
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elnomic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elnomic&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnomic&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
----
-
-### 🏗️ Featured Projects (Coming Soon)
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Project A** | AI-powered SaaS for X | 🚧 Building |
-| **Project B** | Developer tool for Y | 📝 Planning |
-| **Project C** | Community platform for Z | 🔬 Research |
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elnomic&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### 🌟 Featured Projects
 
-<p align="center">
-  <i>“Build fast, break things, learn faster, and repeat.”</i>
-</p>
+> Lihat repository di bawah untuk project-project saya. Semua project dibangun dengan fokus pada **scalability**, **clean code**, dan **user experience** yang premium.
+
+*(Tambahkan project cards di sini nanti)*
+
+---
+
+### 📬 Let's Connect!
+
+Saya selalu terbuka untuk kolaborasi, diskusi startup, atau sekadar ngobrol tentang teknologi.
+
+- **Email**: [elnomic@yahoo.com](mailto:elnomic@yahoo.com)
+- **WhatsApp**: [+62 821-2464-3404](https://wa.me/6282124643404)
+- **Twitter / X**: [@ojixbt](https://x.com/ojixbt)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=00C3FF&height=100&section=footer" width="100%" />
+  
+  <p><strong>Currently building the next big thing.</strong> ✨</p>
+</div>
