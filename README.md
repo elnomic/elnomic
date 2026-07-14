@@ -35,14 +35,22 @@ I thrive in the intersection of **technology**, **product design**, and **busine
 ☁️ Cloud      : AWS, GCP, Vercel, Docker
 📱 Mobile     : Flutter, React Native
 🔧 Tools      : Git, Figma, Postman, Linux
+```
 
+---
+
+### 📈 My Builder Mindset
+
+```ascii
 +-------------------------------------------------+
 |   🔨 BUILD  →  📈 SCALE  →  🚀 LAUNCH          |
 |   Idea        MVP          Growth & Iteration    |
 +-------------------------------------------------+
+```
 
+---
 
-📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:elnomic@yahoo.com">
@@ -56,7 +64,9 @@ I thrive in the intersection of **technology**, **product design**, and **busine
   </a>
 </p>
 
-📊 GitHub Stats
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elnomic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -67,12 +77,15 @@ I thrive in the intersection of **technology**, **product design**, and **busine
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elnomic&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
-🏗️ Featured Projects (Coming Soon)
+---
 
-Project Description Status
-Project A AI-powered SaaS for X 🚧 Building
-Project B Developer tool for Y 📝 Planning
-Project C Community platform for Z 🔬 Research
+### 🏗️ Featured Projects (Coming Soon)
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **Project A** | AI-powered SaaS for X | 🚧 Building |
+| **Project B** | Developer tool for Y | 📝 Planning |
+| **Project C** | Community platform for Z | 🔬 Research |
 
 ---
 
